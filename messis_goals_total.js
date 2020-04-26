@@ -18,8 +18,8 @@ copaDelReyGoals
 Create a fourth variable named totalGoals (javascript, C#) or total_goals (python, ruby). totalGoals/total_goals should store the sum of all of Messi's goals for this year.
 */
 
-var laLigaGoals
-var championsLeagueGoals
-var copaDelReyGoals
+var laLigaGoals  = 43;
+var championsLeagueGoals = 10;
+var copaDelReyGoals = 5;
 
-var totalGoals
+var totalGoals = laLigaGoals + championsLeagueGoals + copaDelReyGoals;
